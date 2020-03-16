@@ -1,0 +1,36 @@
+
+
+.sec-index
+{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.logo-img
+{
+  height: 100px;
+  width: auto;
+  margin-left: 50px;
+}
+
+.right-float
+{
+  font-size: 20px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
+h3
+{
+  font-size: 30px;
+  margin-left: 60px;
+}
+
+.copyright
+{
+  font-size: 20px;
+  text-align: center;
+}
+
